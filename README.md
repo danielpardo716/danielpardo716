@@ -4,7 +4,7 @@ I'm an Embedded Software Engineer from Buffalo, NY.
 
 My mission is to help make the world become a smarter, safer, and more sustainable place through building embedded and IoT systems with real-world impact.
 
-I have a Master's degree in Electrical Engineering from SUNY University at Buffalo, and 3 years of experience building tools for the semiconductor industry.
+I have a Master's degree in Electrical Engineering from SUNY University at Buffalo, and 3 years of experience building firmware and software in the semiconductor industry.
 
 ### 🛠️ Tech Stack
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](#)
@@ -25,7 +25,14 @@ I have a Master's degree in Electrical Engineering from SUNY University at Buffa
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
+## 💡Current Projects
+I'm always learning! Here's what I've been working on lately:
+- [ESP32 Multi-Sensor](https://github.com/danielpardo716/esp32-multi-sensor): An ESP32-based IoT sensor module utilizing Zephyr OS.
+- [Yocto RPi Hotspot](https://github.com/danielpardo716/yocto-rpi-hotspot): A custom Raspberry Pi Wi-Fi hotspot application image built with the Yocto Project.
+- [Home Server](https://github.com/danielpardo716/home-server): Personal server on Raspberry Pi 5, running HomeAssistant, file/image storage, and self-monitoring tools.
+- [Rust OS](https://github.com/danielpardo716/rust-os): Barebones OS written in Rust for the purposes of learning the language and OS internals.
+
 ### 📫 Get in Touch
-Feel free to reach me using either option below!
+Feel free to reach me using the options below!
 - 💼 [LinkedIn](https://linkedin.com/in/danielpardo716)
 - 📧 [Email](mailto:dpardo25@proton.me)
